@@ -8,3 +8,4 @@ To train the AI agent, make a copy of the repository and run python train_agent.
 
 Contributions
 Created at TUMO using Gymnasium and stable_baselines3.
+![Screen-Recording-2025-01-17-at-8 53 51 PM](https://github.com/user-attachments/assets/98745cd0-c875-4691-90e8-b7872e494457)
